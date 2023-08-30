@@ -1,0 +1,159 @@
+\documentclass[german]{scrartcl}
+%\usepackage[utf8]{inputenc} %unnötig in XeLaTeX
+\usepackage[T1]{fontenc}
+
+%%%%LANGUAGE SETUP%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fontspec}
+\setromanfont[Ligatures = TeX]{Linux Libertine O}
+\setsansfont[Ligatures = TeX]{Linux Biolinum O}
+\usepackage{csquotes}
+\usepackage{graphicx}
+\usepackage[hidelinks]{hyperref}
+\usepackage{lipsum}
+\usepackage{amsmath}
+\usepackage[normalem]{ulem}
+\usepackage{xcolor}
+
+\usepackage{setspace}
+\usepackage{relsize}
+\usepackage{multicol}
+
+\makeatletter
+\chardef\l@hebrew=255
+\makeatother
+\usepackage{polyglossia}
+\setmainlanguage{german}
+\setotherlanguage{hebrew}
+\newfontfamily\hebrewfont[Scale=MatchUppercase,Script=Hebrew]{SBL BibLit}
+
+%%%%%VERSE NUMBERS%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\rdrchap}[1]{\begin{german}\setRL\small\textbf{#1}\end{german}}
+\newcommand{\rdrverse}[1]{\raisebox{2.5pt}{\smaller[4]#1}}
+
+\newcommand{\setuma}{~~~~{\scriptsize ס}~~~~}
+\newcommand{\petucha}{~~~~{\footnotesize פ}~~~~}
+
+%\usepackage{devanagari}
+
+%%%%%%DATE FOR NEXT  WEEKDAYS%%%%%%%%%%%%
+\usepackage{datenumber,etoolbox}
+%Monday
+\newbool{mondate}
+\ifnumcomp{\arabic{datedayname}}{=}{1}{\setbool{mondate}{true}}{\setbool{mondate}{false}}
+
+\newcommand\nextmon{%
+  \unlessboolexpr{bool {mondate} }{%
+    \addtocounter{datenumber}{1}%
+    \setdatebynumber{\arabic{datenumber}}%
+    \ifnumcomp{\arabic{datedayname}}{=}{1}{\setbool{mondate}{true}}{\setbool{mondate}{false}}%
+  }%
+  \datedate\setbool{mondate}{false} \addtocounter{datenumber}{-1}%
+}
+
+%Tuesday
+\newbool{tuesdate}
+\ifnumcomp{\arabic{datedayname}}{=}{2}{\setbool{tuesdate}{true}}{\setbool{tuesdate}{false}}
+
+\newcommand\nexttues{%
+  \unlessboolexpr{bool {tuesdate} }{%
+    \addtocounter{datenumber}{1}%
+    \setdatebynumber{\arabic{datenumber}}%
+    \ifnumcomp{\arabic{datedayname}}{=}{2}{\setbool{tuesdate}{true}}{\setbool{tuesdate}{false}}%
+  }%
+  \datedate\setbool{tuesdate}{false} \addtocounter{datenumber}{-1}%
+}
+
+%Wednesday
+\newbool{wedndate}
+\ifnumcomp{\arabic{datedayname}}{=}{3}{\setbool{wedndate}{true}}{\setbool{wedndate}{false}}
+
+\newcommand\nextwedn{%
+  \unlessboolexpr{bool {wedndate} }{%
+    \addtocounter{datenumber}{1}%
+    \setdatebynumber{\arabic{datenumber}}%
+    \ifnumcomp{\arabic{datedayname}}{=}{3}{\setbool{wedndate}{true}}{\setbool{tuesdate}{false}}%
+  }%
+  \datedate\setbool{wedndate}{false} \addtocounter{datenumber}{-1}%
+}
+
+%Thursday
+\newbool{thurdate}
+\ifnumcomp{\arabic{datedayname}}{=}{4}{\setbool{thurdate}{true}}{\setbool{thurdate}{false}}
+
+\newcommand\nextthur{%
+  \unlessboolexpr{bool {thurdate} }{%
+    \addtocounter{datenumber}{1}%
+    \setdatebynumber{\arabic{datenumber}}%
+    \ifnumcomp{\arabic{datedayname}}{=}{4}{\setbool{thurdate}{true}}{\setbool{thurdate}{false}}%
+  }%
+  \datedate\setbool{thurdate}{false} \addtocounter{datenumber}{-1}%
+}
+
+%Friday
+\newbool{fridate}
+\ifnumcomp{\arabic{datedayname}}{=}{5}{\setbool{fridate}{true}}{\setbool{fridate}{false}}
+
+\newcommand\nextfri{%
+  \unlessboolexpr{bool {fridate} }{%
+    \addtocounter{datenumber}{1}%
+    \setdatebynumber{\arabic{datenumber}}%
+    \ifnumcomp{\arabic{datedayname}}{=}{5}{\setbool{fridate}{true}}{\setbool{fridate}{false}}%
+  }%
+  \datedate\setbool{fridate}{false} \addtocounter{datenumber}{-1}%
+}
+%%%%%%DOCUMENT SETUP%%%%%%%%%%%%%%%%%%
+\setlength{\parindent}{0pt}
+%Kopfzeile
+\usepackage[headsepline]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+
+\ihead{Hebräisch II – Tutorium}
+\chead{}
+\ohead{\nextmon}
+\ifoot{Luis Lütkehellweg}
+\cfoot{}
+\ofoot{\pagemark}
+%%%%%OWN COMMANDS%%%%%%%%%%%%%%%%%%%%%%
+%Gendern
+\usepackage{xspace}
+\newcommand{\genderchar}{\raisebox{\dimexpr1ex-\height}{*}} %change for different char
+\newcommand{\In}{\genderchar in \xspace}
+\newcommand{\Innen}{\genderchar innen \xspace}
+\newcommand{\derdie}{der\genderchar die \xspace}
+\newcommand{\seineihre}{seine\genderchar ihre \xspace}
+\newcommand{\seinerihrer}{seiner\genderchar ihrer \xspace}
+\newcommand{\seinenihren}{seinen\genderchar ihren \xspace}
+\renewcommand{\*}{\genderchar}
+
+%Übersetzung Hebräischen Texts in \normalsize
+\newcommand{\enqnormalsize}[1]{{\normalsize \enquote{#1}}}
+\newcommand{\LargeHebrew}[1]{{\Large \texthebrew{#1}}}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{Hebräisch Tutorium}
+\author{Luis Lütkehellweg}
+\begin{document}
+%Fließtext:
+\setstretch{2} \large
+	\begin{hebrew}
+	\rdrchap{1}\rdrverse{1}
+	אַ֥שְֽׁרֵי־הָאִ֗ישׁ אֲשֶׁ֤ר׀ לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד וּבְמֹושַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב׃  	
+	\rdrverse{4} לֹא־כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם־כַּ֝מֹּ֗ץ אֲֽשֶׁר־תִּדְּפֶ֥נּוּ רֽוּחַ׃ 
+	\end{hebrew}
+
+%Vokabeltest / Vokabelliste
+
+\section{Liste}
+
+\begin{multicols}{3}
+\parindent=0pt
+\hangindent=1em
+\flushleft
+{\hebrewfont\RL{אבד}} \begin{german}perish\end{german}\\
+{\hebrewfont\RL{אִישׁ}} \begin{german}man\end{german}\\
+{\hebrewfont\RL{אִם}} \begin{german}if\end{german}\\
+	
+\end{multicols}
+
+\end{document}
