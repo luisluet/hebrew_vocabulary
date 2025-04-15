@@ -1,61 +1,65 @@
 hebraeisch,bemerkungen,deutsch,lektion
 הוּא,,er (Sg. m.),1
 הִיא,,sie (Sg. f.),1
-אַתָּה,,du (m.),1
-אַתְּ,,du (f.),1
+אַתָּה,,du (m.),1
+אַתְּ,,du (f.),1
 אֲנִי,,ich,1
 אָנֹכִי,,ich,1
-אַתֶּם,,ihr (Pl. m.),1
+הֵמָּה/הֵם,,sie (Pl. m.),1
+אַתֶּם,,ihr (Pl. m.),1
 אֲנַחְנוּ/נַחְנוּ,,wir,1
+הַ ּ,,Artikel/Determinationspräfix,1
 זֶה,,dieser (Sg. m.),1
 זאֹת,,diese (Sg. f.),1
-אֵלֶּה,,diese (Pl. c.),1
-אֲשֶׁר,,Relativpartikel,1
-מִי,,wer,1
-מָה,,was,1
+אֵלֶּה,,diese (Pl. c.),1
+אֲשֶׁר,,Relativpartikel,1
+שֶׁ ּּּ,,Relativpartikel,1
+מִי,,wer?,1
+מָה,,was?,1
 אַחֵר,,anderer,1
-כֹּל/כָּל־,,"die Gesamtheit; ganz, alle",1
+כֹּל/כָּל־,,"die Gesamtheit; ganz, alle",1
 לְ,,"für, in Bezug auf, zu",1
 מִן,,von,1
 אֶל,,"zu, gegen",1
-הֵמָּה/הֵם,,sie (Pl. m.),1
 אַחַר,,"hinter, hinterher",1
 בְּ,,"in, an, durch",1
 עִם,,"mit, bei",1
-עַל־,,"auf, über; gegen",1
+עַל־,,"auf, über; gegen",1
 בֵּין,,zwischen,1
-כְּ,,wie,1
+כְּ,,wie,1
 אֵת,,I. Akkusativzeichen; II. mit; bei,1
-(ל)מַעַן ,,"um...willen; damit, wegen",1
+לְמַעַן,,"um (…) willen; damit, wegen",1
+בַּעַד,,"in Bezug auf, zugunsten von",1
 וְ,,und,1
-כִּי,,"dass, denn, weil",1
+כִּי,,"dass; denn, weil",1
 אִם,,wenn,1
-אוֹ,,oder,1
-לאֹ,,nicht,1
-אַל,,nicht (Verneinung des Jussiv),1
-מְאד,,sehr,1
+לֹא,,nicht,1
+אַל,,nicht (Verneinung des Jussivs),1
+פֶּן,,damit nicht,1
+מְאֹד,,sehr,1
 הֵן/הִנֵּה,,siehe,1
 כֹּה,,so,1
 כֵּן,,"so, also, ja",1
 עוֹד,,"noch, nochmals",1
-ה,,Etwa? (Fragepartikel),1
+הֲ,,etwa? (He interrogativum),1
 אַף,,"also, auch, sogar",1
 גַּם,,"auch, sogar",1
-אַיִן/אֵין,,es gibt nicht; das Nicht(vorhanden)sein,1
-יֵשׁ,,es gibt; das Vorhandensein,1
-נָא,,doch bitte,1
+אַיִן/אֵין,,es gibt nicht,1
+יֵשׁ,,es gibt,1
+נָא,,"doch, bitte",1
 אַךְ,,"nur, gewiss",1
 שָׁם,,dort,1
 שַׁמָּה,,"dort, dorthin",1
-היה,,"sein, werden",1
-אָדָם,,Mensch,2
+תַּחַת,,"unter, anstatt von",1
+מַעַל,,"oben, oberhalb von",1
+אׇדָם,,Mensch,2
 אִישׁ,,Mann,2
-אֲנָשִׁים,,Männer (Pl. m.),2
-אִשָּׁה,,Frau,2
-נָשִׁים,,Frauen (Pl. f.),2
+אֲנָשִׁים,,Männer (Pl. m.),2
+אִשָׁה,,Frau,2
+נָשִׁים,,Frauen (Pl. f.),2
 זקן,,"alt werden, alt sein/alt",2
-נַעַר,,"Knabe, Knecht, Diener",2
-נַעֲרָה,,"Mädchen, Magd, Dienerin",2
+נַעַר,,"Knabe; Knecht, Diener",2
+נַעֲרָה,,"Mädchen; Magd, Dienerin",2
 אָב,,Vater,2
 אָבוֹת,,Väter (Pl. m.),2
 אֵם,,Mutter,2
@@ -63,474 +67,368 @@ hebraeisch,bemerkungen,deutsch,lektion
 בַּת,,Tochter,2
 אָח,,Bruder,2
 אָחוֹת,,Schwester,2
-גאל,Q.,"loskaufen; auslösen, erlösen",2
+מִשְׁפָּחָה,,"Großfamilie, Sippe, Clan",2
 ילד,Q.,gebären,2
-ילד,Hi.,zeugen,2
-הרה,Q.,schwanger werden/sein; empfangen,2
+ילד,Hi.,,2
+הרה,,schwanger werden/sein; empfangen,2
 יֶלֶד,,Kind,2
-בְּכֹר,,"erstgeboren, Erstgeborener",2
-אהב,Q.,lieben,2
-נשׁק,Q.,küssen,2
-דבק,Q.,"kleben, haften an; anhangen",2
+בְּכֹר,,"erstgeboren, Erstgeborener",2
+גאל,,"loskaufen; auslösen, erlösen",2
+אהב,,lieben,2
+נשׁק,,küssen,2
+דבק,,"kleben, anhaften",2
 טוֹב,,"gut, angenehm",2
-טוֹב/יטב,Q.,gut sein,2
+טוֹב/יטב,,gut sein,2
 עֶבֶד,,"Diener, Knecht",2
-עבד,Q.,dienen,2
-אָמָה,,"Magd, Dienerin",2
-שִׁפְחָה,,"Magd, Sklavin",2
+עבד,,dienen,2
+אָמָה,,"Magd, Sklavin",2
+שִׁפְחָה,,"Magd, Sklavin",2
 רֵעַ,,"Nächster, Freund",2
 בָּשָׂר,,"Fleisch, Leib",3
 שֵׁם,,Name,3
-דָּם,,Blut,3
+דָּם,,Blut,3
 לֵב/לֵבָב,,Herz,3
-עֶצֶם,,"Knochen, Gebein, Wesen",3
-שׁכב,Q.,liegen,3
-קוּם,Q.,"aufstehen, bestehen",3
-ראֹשׁ,,"Kopf, Haupt; Gipfel",3
+עֶצֶם,,"Knochen, Gebein; das Wesentliche",3
+שׁכב,,liegen,3
+קוּם,,"aufstehen, bestehen",3
+רֹאשׁ,,"Kopf, Haupt; Gipfel",3
 פָּנִים,,"Angesicht, Oberfläche; Gesicht",3
-שָׂפָה,,"Lippe, Rand, Ufer",3
+שָׂפָה,,"Lippe; Rand, Ufer",3
 לָשׁוֹן,,"Zunge, Sprache",3
 שֵׁן,,Zahn,3
 יָד,,Hand,3
 כַּף,,Handfläche,3
 רֶגֶל,,Fuß,3
-עמד,Q.,"stehen, hintreten",3
-תפשׂ,Q.,"ergreifen, fassen",3
-לקח,Q.,nehmen,3
-שׂים,Q.,"setzen, legen, platzieren",3
-עזב,Q.,"verlassen, lassen",3
+עמד,,"stehen, hintreten",3
+תפשׂ,,"ergreifen, fassen",3
+לקח,,nehmen,3
+שִׂים,,"setzen, legen, platzieren",3
+עזב,,"verlassen, lassen",3
 שׁלך,Hi.,werfen,3
-נשׂא,Q.,tragen; aufheben,3
-נטה,Q.,"Q. ausstrecken, ausdehnen; abbiegen; Hi. ausstrecken, beugen",3
-נטה,Hi.,"ausstrecken, beugen",3
-חַיִּים,,Leben,4
+נשׂא,,tragen; aufheben,3
+חַיּים,,Leben,4
 חַי,,lebendig,4
-חַיה,Q.,leben,4
-נֶפֶשׁ,,"Seele, Person, Leben",4
-רוּחַ,,"Wind, Hauch, Geist",4
+חיה,,leben,4
+היה,,"sein, werden",4
+נֶפֶשׁ,,"Lebendigkeit, „Seele“",4
+רוּחַ,,"Wind, Hauch, Geist",4
 עֹז,,"Stärke, Kraft",4
 חָזָק,,"fest, stark",4
-חזק,Q.,"fest sein, stark sein",4
-חזק,Hi.,"ergreifen, festhalten",4
+חזק,,"Q. fest sein, stark sein 
+ Hi. ergreifen, festhalten",4
 כֹּחַ,,"Kraft, Stärke",4
-יכל,Q.,"können, vermögen, fähig sein",4
+יכל,,"können, vermögen, fähig sein",4
 מָוֶת,,Tod,4
 מוּת,Q.,sterben,4
 מוּת,Hi.,töten,4
 אבד,Q.,zugrunde gehen,4
-אבד,Hi.,zugrunde richten,4
-אבד,Pi.,zugrunde richten,4
+אבד,"Pi., Hi.",zugrunde richten,4
 כלה,Q.,"fertig werden, aufhören",4
-כלה,Pi.,vollenden,4
-הרג,Q.,töten,4
-קבר,Q.,begraben,4
-שְׁאוֹל,,"Unterwelt, Totenreich; Scheol",4
-נפל,Q.,fallen,4
-שׁבר,Q.,"zerbrechen, brechen",4
-פֶּן,,damit nicht,4
-בַעַד,,in Bezug auf/zugunsten von,4
+כלה,Pi. ,"
+vollenden",4
+הרג,,töten,4
+קבר,,begraben,4
+שְׁאוֹל,,"Unterwelt, Totenreich; Scheol",4
+נפל,,fallen,4
+שׁבר,,"zerbrechen, brechen",4
 עַיִן,,Auge; Quelle,5
 ראה,Q.,sehen,5
-ראה,Ni.,"sich sehen lassen, erscheinen",5
-ראה,Hi.,zeigen,5
+ראה,Hi.,"
+sich sehen lassen, erscheinen",5
+ראה,Ni.,zeigen,5
 מַרְאֶה,,"Aussehen; Vision, Erscheinung",5
-חזה,Q.,sehen,5
-בין,Q.,verstehen; unterscheiden,5
-בין,Hi.,verstehen; unterscheiden,5
+חזה,,sehen,5
+בין,"Q., Hi.",verstehen; unterscheiden,5
 פֶּה,,Mund; Schwertscheide,5
-נגע,Q.,"berühren, schlagen",5
-אַף,,"Nase, Zorn",5
+פִּים,,Münder (Pl. m.),5
+נגע,,"berühren, schlagen",5
+אַף,,Nase; Zorn,5
 אֹזֶן,,Ohr,5
-שׁמע,Q.,hören,5
-חרשׁ,Q.,taub sein,5
-חרשׁ,Hi.,schweigen,5
+שׁמע,,hören,5
+חרשׁ,,taub sein,5
+חרשׁ,Hi.,"
+schweigen",5
 קוֹל,,Stimme,5
 דבר,Pi.,"reden, sprechen",5
-דָּבָר,,Wort; Geschehnis,5
+דָּבָר,,Wort; Geschehnis,5
 אמר,Q.,sagen,5
-זעק/צעק,Q.,"(um Hilfe) schreien, rufen",5
+זעק/צעק,,"(um Hilfe) schreien, rufen",5
 שׁיר,Q.,singen,5
-שִׁיר,,Lied; Gesang,5
+שִׁיר,,"Lied, Gesang",5
 מִזמוֹר,,"Lied, Psalm, Melodie",5
+בַּיִת,,Haus; Tempel; Familie,6
+שׁכן,Q.,wohnen,6
+מִשְׁכָּן,,Wohnung,6
+פֶּתַח,,"Tür, Öffnung, Tor",6
+שַׁעַר,,Tor,6
+פתח,Q.,öffnen,6
+בוֹא,Q.,"hineingehen, kommen",6
+בוֹא,Hi.,"hineinführen, -bringen",6
+יצא,Q.,herausgehen,6
+יצא,Hi.,herausführen,6
+שֻׁלחָן,,Tisch,6
 בֶּגֶד,,"Gewand, Kleid",6
 כסה,Pi.,bedecken,6
 זָהָב,,Gold,6
 כֶּסֶף,,Silber,6
-בַּיִת,,Haus; Tempel; Familie,7
-שׁכן,,wohnen,7
-מִשְׁכָּן,,Wohnung,7
-פֶּתַח,,"Tür, Öffnung, Tor",7
-שַׁעַר,,Tor,7
-חָצֵר,,"Hof, Innenhof",7
-פתח,,öffnen,7
-בוֹא,Q.,"hineingehen, kommen",7
-בוֹא,Hi.,"hineinführen, -bringen",7
-יצא,Q.,"hinaus-, herausgehen ",7
-יצא,Hi.,"hinaus-, herausführen",7
-שֻׁלחָן,,Tisch,7
-אוֹר,,leuchten,7
-אוֹר,,Licht,7
-ישׁב,Q.,"sitzen, wohnen, bleiben",7
-גֵּר,,"Schutzbürger, sesshafter Fremder",7
-רוּם,Q.,"hoch sein, erhaben sein",7
-מַעַל,,"oben, oberhalb von",7
-תַּחַת,,"unter, anstatt von",7
-תַּוֶךְ,,Mitte,7
-בְתוֹךְ,,inmitten von,7
-אַחֲרֵי/אַחֲרֹן,,"nach, nach hinten",7
-אַחֲריִת,,"das danach Kommende, Hinteres; Ende, Schluss",7
-קֶרֶב,,"Inneres, Mitte, Eingeweide",7
-לֶחֶם,,Brot,8
-אכל,Q.,essen,8
-שׁתה,Q.,trinken,8
-יַיִן,,Wein,8
-שֶׁמֶן,,Öl,8
-כְּלִי,,Gefäß,8
-מָלֵא,Q.,"voll sein, erfüllen",8
-שׁפך,Q.,ausgießen,8
-אֵשׁ,,Feuer,8
-שׂרף,Q.,"brennen, verbrennen",8
-דְּבַשׁ,,Honig,8
-אֶרֶץ,,"Erde, Land",9
-גְּבוּל,,"Grenze, Gebiet",9
-מָקוֹם,,Ort,9
-מִגְרָשׁ,,"Weidegebiet, gemeinsames Weideland",9
-שָׂדָה,,Feld,9
-אֲדָמָה,,"Erde, Erdboden",9
-עָפָר,,Staub,9
-עֵבֶר,,"jenseits, gegenüber; jenseitiges Land",9
-בָּמָה,,"Höhe, Anhöhe, Opferhöhe",9
-הַר,,Berg,9
-נֶגֶב,,"trockenes Gebiet; Süden, Südland",9
-צוּר,,Fels,9
-גֵּיא/גַּיְא,,"Tal, Schlucht",9
-סָבִיב,,ringsum,9
-מַיִם,,Wasser,9
-נָהָר,,Fluss,9
-נָחָל,,"Bach, Sturzbach",9
-יְאֹר,,"(großer) Fluss; meist: Nil, Nilarm",9
-בּוֹר,,Grube,9
-יבשׁ,Q.,"trocken werden, verdorren",9
-עִיר,,Stadt,9
-עָרִים,,Städte (Pl. f.),9
-חוֹמָה,,Mauer,9
-חוּץ,,Straße¸ draußen,9
-דֶרֶךְ,,Weg,9
-עִבְרִי,,"Hebräer, hebräisch",9
-שׁור,,"Rind, Stier",10
-פַּר,,"Jungstier, Stier",10
-בָּקָר,,Rind; Großvieh,10
-צאֹן,,Kleinvieh,10
-אַיִל,,Widder,10
-כֶּבֶשׂ,,"(entwöhntes) Lamm, junger Widder",10
-רעה,,"weiden, hüten",10
-אֹהֶל,,Zelt,10
-מִדְבָּר,,Wüste,10
-מַטֶּה,,"Stab, Stamm",10
-שֵׁבֶט,,"Stab, Stamm",10
-מִשׁפָּחָה,,"Großfamilie, Sippe, Clan",10
-עָנָן,,Wolke,10
-בְּהֵמָה,,Vieh,11
-סוּס,,Pferd,11
-עוֹף,,"Vögel (koll.), Geflügel",11
-עוֹף,Q.,fliegen,11
-לכד,Q.,"fangen, einfangen, einnehmen",11
-שׁחט,Q.,schlachten,11
-כָּנָף,,Flügel,11
+אוֹר,,leuchten,6
+אוֹר,,Licht,6
+ישׁב,Q.,"sitzen; wohnen, bleiben",6
+גֵּר,,"Schutzbürger, sesshafter Fremder",6
+רוּם,Q.,"hoch sein, erhaben sein",6
+לֶחֶם,,Brot,7
+אכל,Q.,essen,7
+שׁתה,Q.,trinken,7
+יַיִן,,Wein,7
+שֶׁמֶן,,Öl,7
+כְּלִי,,Gefäß,7
+מָלֵא,,"voll sein, erfüllen",7
+אֵשׁ,,Feuer,7
+דְּבַשׁ,,Honig,7
+אֶרֶץ,,"Erde, Land",8
+גְּבוּל,,"Grenze, Gebiet",8
+מָקוֹם,,Ort,8
+שׇׂדׇה,,Feld,8
+אֲדָמָה,,"Erde, Erdboden",8
+עָפָר,,Staub,8
+הַר,,Berg,8
+בָּמָה,,"Höhe, Anhöhe, Opferhöhe",8
+נֶגֶב,,"trockenes Gebiet; Süden, Südland",8
+צוּר,,Fels,8
+מַיִם,,Wasser,8
+נָהָר,,Fluss,8
+נָחָל,,"Bach, Sturzbach",8
+סָבִיב,,ringsum,8
+עִיר,,Stadt,8
+עָרִים,,Städte (Pl. f.),8
+חוֹמָה,,Mauer,8
+חוּץ,,Straße; draußen,8
+דֶּרֶךְ,,Weg,8
+עִבְרִי,,"Hebräer, hebräisch",8
+בָּקָר,,Rind; Großvieh,9
+צֹאן,,Kleinvieh,9
+אַיִל,,Widder,9
+רעה,Q.,"weiden, hüten",9
+אֺהֶל,,Zelt,9
+מִדְבָּר,,Wüste,9
+שֵׁבֶט,,"Stab, Stamm",9
+בְּהֵמָה,,Vieh,9
+עוֹף,,"Vögel (coll.), Geflügel",9
+עוֹף,Q.,fliegen,9
+לכד,Q.,"fangen, einfangen, einnehmen",9
+שׁחט,Q.,schlachten,9
+זֶרַע,,Same; Nachkommenschaft,10
+אסף,Q.,"sammeln, einsammeln, ernten",10
+קבץ,"Q., Pi.","sammeln, ernten; versammeln",10
+קָצִיר,,Ernte,10
+רָעָב,,"Hungersnot, Hunger",10
+עֵץ,,Baum,10
+פְּרִי,,Frucht,10
+שָׁנָה,,Jahr,11
+חֹדֶשׁ,,"Monat, Neumond",11
+יוֹם,,Tag,11
+יָמִים,,Tage (Pl. m.),11
+שַׁבָּת,,Sabbat,11
+לַיְלָה,,Nacht,11
+בֹּקֶר,,Morgen,11
+עֶרֶב,,Abend,11
+חָדָשׁ,,neu,11
+עֵת,,Zeit,11
+דּוֹר,,"Generation, Geschlecht; Zeitabschnitt, Periode",11
+עוֹלָם,,Ewigkeit,11
+תָּמִיד,,"beständig, ständig, immer",11
+רֵאשִׁית,,"Anfang, Erstes, Bestes",11
+עַתָּה,,jetzt,11
 אָז,,"damals, da",11
-בְּלִי/בִּלְתִּי,,ohne,11
-חרשׁ,Q.,pflügen,12
-זֶרַע,,Same; Nachkommenschaft,12
-אסף,Q.,"sammeln, einsammeln, ernten",12
-קבץ,Q.,"sammeln, ernten; versammeln",12
-קבץ,Pi.,"sammeln, ernten; versammeln",12
-קָצִיר,,Ernte,12
-רָעָב,,"Hungersnot , Hunger",12
-עֵץ,,Baum,12
-פְּרִי,,Frucht,12
-שָׁנָה,,Jahr,13
-חֹדֶשׁ,,"Monat, Neumond",13
-יוֹם,,Tag,13
-יָמִים,,Tage (Pl. m.),13
-שַׁבָּת,,Sabbat,13
-לַיְלָה,,Nacht,13
-בֹּקֶר,,Morgen,13
-עֶרֶב,,Abend,13
-חָדָשׁ,,neu,13
-עֵת,,Zeit,13
-מוֹעֵד,,Zeit(punkt),13
-דּוֹר,,"Generation, Geschlecht; Zeitabschnitt, Periode",13
-עוֹלָם,,Ewigkeit,13
-תָּמִיד,,"beständig, ständig, immer",13
-רֵאשִׁית,,"Anfang, Erstes, Bestes",13
-עַתָּה,,jetzt,13
-שָׁמַיִם,,Himmel,13
-שֶׁמֶשׁ,,Sonne,13
-צָפוֹן,,Norden,13
-קֶדֶם,,"Osten; vorne, Vorzeit",13
-אֶחָד,,"einer, eins",14
-שְׁתַּים/שְׁנַיִם,,zwei,14
-שָׁלֹשׁ/שְׁלֹשָׁה,,drei,14
-אַרְבַּע/אַרְבָּעָה,,vier,14
-חָמֵשׁ/חָמִשָּׁה,,fünf,14
-שֵׁשׁ/שִׁשָּׁה,,sechs,14
-שֶׁבַע/שִׁבְעָה,,sieben,14
-שְׁמֹנֶה/שְׁמֹנָה,,acht,14
-תֵּשַׁע/תִּשְׁעָה,,neun ,14
-עֶשֶׂר/עַשָׂרָה,,zehn,14
-עֶשְׂרִים,,zwanzig,14
-שְׁלֹשִׁים,,dreißig,14
-אַרְבָּעִים,,vierzig,14
-חֲמִשִּׁים,,fünfzig,14
-שִׁבְעִים,,siebzig,14
-מֵאָה,,hundert,14
-אֶלֶף,,tausend,14
-רִאשׁוֹן,,erster,14
-שֵׁנִי,,zweiter,14
-שְׁלֹשִׁי,,dritter,14
-ספר,Q.,zählen,14
-ספר,Ni.,zählbar sein,14
-ספר,Pi.,erzählen,14
-מִסְפָּר,,Zahl,14
-רַב,,"viel, zahlreich",14
-רֹב,,(große) Menge,14
-רבה,Q.,zahlreich sein,14
-רבה,Hi.,zahlreich machen,14
-רבב,Q.,zahlreich sein,14
-מְעט,,wenig,14
-יסף,Q.,hinzufügen,14
-יסף,Hi.,hinzufügen,14
-לְבַד/בַּד,,"Teil/für sich, nur",14
-עָנִי,,"besitzlos, arm, demütig",14
-עֳנִי,,"Elend, Leiden",14
-חֲצִי,,Hälfte,14
-רַק,,nur,14
-אַמָּה,,Elle,15
-שֶׁקֶל,,Schekel,15
-כָּבֵד,Q.,schwer sein,15
-כָּבֵד,Pi.,ehren,15
-קלל,Q.,leicht sein,15
-קלל,Pi.,verfluchen,15
-גָּדוֹל,,groß ,15
-גדל,Q.,"groß werden, groß sein",15
-קטן/קָטוֹן,Q.,klein sein/ klein,15
-רֹחַב,,Breite,15
-גבהּ,Q.,"hoch, erhaben sein",15
-מכר,Q.,verkaufen,15
-קנה,Q.,"erwerben, kaufen; schaffen",15
-נתן,Q.,geben,15
-ירשׁ,Q.,"in Besitz nehmen, beerben, erben",15
-ירשׁ,Hi.,vertreiben,15
-נַחֲלָה,,"Erbbesitz, Besitz",15
-הלך,Q.,gehen,16
-נסע,Q.,"aufbrechen, weiterziehen, herausreißen (Zeltpflöcke)",16
-חנה,Q.,"sich lagern, sich niederlassen",16
-שׁוּב,Q.,"zurückkehren, umkehren",16
-שׁוּב,Hi.,zurückbringen,16
-סבב,Q.,"umgeben, herumgehen; sich wenden",16
-ירד,Q.,hinabsteigen,16
-עלה,Q.,"hinaufgehen, aufsteigen",16
-עלה,Hi.,"hinaufführen, aufsteigen lassen, opfern",16
-עבר,Q.,"vorübergehen, hinübergehen",16
-יָם,,Meer,16
-תְּהוֹם,,"Urflut, Ozean; Abgrund",16
-קרה,Q.,"antreffen, begegnen, hinzukommen, unvermutet eintreffen",16
-פנה,Q.,"sich wenden, entgegentreten",16
-נוּחַ,Q.,ruhen,16
-פַּעַם,,"Mal, Schritt",16
-רחק,Q.,"fern sein, sich entfernen",16
-נגשׁ,Q.,"herzutreten, nahen, sich nähern",16
-נגשׁ,Ni.,"herzutreten, nahen, sich nähern",16
-נגשׁ,Hi.,(dar)bringen,16
-קרב,Q.,sich nähern,16
-קרב,Hi.,darbringen,16
-קָרוֹב,,nahe,16
-נֶגֶד,,gegenüber,16
-יָמִין,,"rechte Hand, rechte Seite",16
-שְׂמֹאל,,"linke Hand, linke Seite",16
-אֵל,,Gott,17
-אֱלֹהִים,,Gott,17
-אֱלוֹהַּ,,Gott,17
-אָדוֹן,,Herr,17
-אֲדֹנָי,,"der Herr, mein Herr",17
-עֶלְיוֹן,,"Höchster; höchster, oberer",17
-קָדוֹשׁ,,heilig,17
-קֹדֶשׁ,,"Heiligkeit, Heiligtum, Heiliges",17
-קדשׁ,Q.,"heilig sein, geweiht sein",17
-קדשׁ,Pi.,heiligen,17
-קדשׁ,Hi.,heiligen,17
-נדר,Q.,geloben,17
-שׁבע,Ni.,schwören,17
-הלל,Pi.,loben,17
-תְּהִלָּה,,"Ruhm, Lob, Lobpreis",17
-כָּבוֹד,,"Herrlichkeit, Ehre",17
-נָבִיא,,Prophet,17
-נְאֻם,,"Ausspruch, Orakel, Spruch",17
-פלל,Hitp.,beten,17
-תְּפִלָּה,,Gebet,17
-צוה,Pi.,"befehlen, anordnen",17
-תּוֹרָה,,"Weisung, Gesetz, Entscheidung",17
-חֹק/חֻקָּה,,"Satzung, Vorschrift",17
-מִצְוָה,,"Befehl, Gebot",17
-כפר,Pi.,"Sühne schaffen, sühnen",17
-ברא,Q.,erschaffen,17
-חוה,Hišt.,"huldigen, anbeten, sich niederwerfen",17
-ברך,Pi.,segnen,17
-בְּרָכָה,,Segen,17
-הֵיכָל,,"Tempel, Palast",18
-מִזְבֵּחַ,,Altar,18
-אֲרוֹן,,"Lade, Bundeslade",18
-עַמּוּד,,"Pfeiler, Säule",18
-זֶבַח,,Opfer,18
-זבח,Q.,opfern,18
-מִנְחָה,,"Geschenk, Gabe, Opfergabe (Korn u.ä.)",18
-עֹלָה,,Brandopfer,18
-כֹּהֵן,,Priester,18
-משׁח,Q.,salben,18
-מָשִׁיחַ,,Gesalbter,18
-הַג/חָג,,Fest,18
-מַצָּה,,ungesäuertes Brot,18
-תְּרוּמָה,,"(Hebe)opfer, Beitrag",18
-קטר,Pi.,"räuchern, rauchen lassen, opfern",18
-קָרְבָּן,,"Darbringung, Opfergabe",18
-מֶלֶךְ,,König,19
-מלך,Q.,König sein,19
-מַלְכוּת,,"Königtum, Königsherrschaft",19
-מַמְלָכָה,,Königsherrschaft,19
-נָשִׂיא,,Fürst,19
-שַׂר,,"Beamter, Fürst",19
-בחר,Q.,"erwählen, wählen, ernennen",19
-משׁל,Q.,"herrschen, Macht haben",19
-שָׁלוֹם,,"Friede, Wohlergehen, Wohlstand",19
-שׁלם,Q.,"im Friede sein, unversehrt sein, heil sein",19
-גּוֹי,,"Volk, Nation",19
-עַם,,Volk,19
-עֵדָה,,"Gemeinde, Versammlung",19
-קהל,Ni.,sich versammeln,19
-קהל,Hi.,versammeln,19
-קָהָל,,"Versammlung, (Volks)gemeinde",19
-כִּסֵּא,,Thron,19
-גרשׁ,Q.,vertreiben,19
-שׁפט,,"richten, entscheiden, urteilen",19
-מִשְׁפָּט,,"Recht, Endurteil, Prozess",19
-עֵד,,Zeuge,19
-בקשׁ,Pi.,suchen ,19
-דרשׁ,Q.,"suchen, fragen nach",19
-מצא,Q.,finden,19
-צפן,Q.,verbergen,19
-חַיִל,,"Kraft, Macht; Truppe",20
-צָבָא,,Heer,20
-גִּבּוֹר,,"Held, Elitesoldat",20
-מִלְחָמָה,,"Kampf, Krieg, Schlacht",20
-מַחֲנֶה,,Lager,20
-רֶכֶב,,"Wagen, Wagenzug",20
-בְּרִית,,"Bund, Verpflichtung",20
-כרת,Q.,"Bund schließen, (ab)schneiden",20
-כרת,Hi.,ausrotten,20
-מָגֵן,,Schild,20
-קֶשֶׁת,,Bogen,20
-חֶרֶב,,Schwert,20
-ישׁע,Hi.,"helfen, retten, befreien",20
-פלט,Q.,entkommen,20
-פלט,Pi.,retten,20
-נצל,Hi.,retten,20
-יְשׁוּעַ,,"Hilfe, Rettung",20
-פדה,Q.,"loskaufen, erlösen",20
-לחם,Ni.,"kämpfen, bekämpfen",20
-אֹיֵב,,Feind,20
-שׁמר,Q.,"behüten, bewahren, halten, beobachten",20
-אוֹת,,"Zeichen, Signal",20
-שׁחת,Hi.,"verderben, vernichten, zerstören",21
-שׁמד,Hi.,"ausrotten, vertilgen",21
-שׁמד,Ni.,verheert sein,21
-יתר,Ni.,übrig bleiben,21
-יתר,Hi.,"übrig lassen, verschonen",21
-נוּס,Q.,fliehen,21
-מלט,Ni.,"sich retten, entkommen",21
-מלט,Pi.,retten,21
-רדף,Q.,"verfolgen, nachjagen",21
-עֲבֹדָה,,"Dienst, Arbeit",22
-מְלָאכָה,,"Sendung, Arbeit, Aufgabe, Erledigung",22
-מַעֲשֶׂה,,"Werk, Tätigkeit, Tat",22
-פעל,Q.,"machen, tun, handeln",22
-עשׂה,Q.,"machen, tun",22
-פקד,Q.,"sich kümmern um, heimsuchen, überwachen",22
-מַשָּׂא,,Last; Ausspruch,22
-נתץ,Q.,"einreißen, zerstören",22
-נכה,Hi.,schlagen,22
-בנה,Q.,bauen,22
-אֶבֶן,,Stein,22
-נְחֹשֶׁת,,"Kupfer, Bronze",22
-יצק,Q.,"ausgießen, schmelzen",22
-יצר,Q.,"formen, bilden",22
-ידע,Q.,"erkennen, kennen",23
-סֵפֶר,,Buch,23
-חכם,Q.,weise sein,23
-חָכָם,,weise,23
-חָכְמָה,,Weisheit,23
-יעץ,Q.,"raten, beraten",23
-למד,Q.,lernen,23
-ענה,Q.,"I. antworten, erhören; II. niedergedrückt sein, leiden; III. singen",23
-ענה,Pi.,"bedrücken, demütigen",23
-אֱמוּנָה,,"Zuverlässigkeit, Vertrauen",23
-אֱמֶת,,"Treue, Festigkeit",23
-קוה,Pi.,"hoffen, warten",23
-בטח,Q.,"vertrauen, Vertrauen haben",23
-קרא,Q.,rufen; lesen,23
-מָשָׁל,,"Spruch, Sprichwort",23
-כתב,Q.,schreiben,23
-מַלְאָךְ,,"Bote, Engel",23
-שׁלח,Q.,"schicken, senden",23
-נגד,Hi.,"kundtun, mitteilen, erklären",23
-זכר,Q.,"gedenken, sich erinnern",23
-שׁכח,Q.,vergessen,23
-חלם,Q.,träumen,23
-חֲלוֹם,,Traum,23
-בכה,Q.,weinen,24
-יִרְאָה,,Furcht,24
-יָרֵא,,fürchten,24
-נסה,Pi.,"auf die Probe stellen, versuchen",24
-שׂמח,Q.,"sich freuen, froh sein",24
-שִׂמְחָה,,Freude,24
-חָפֵץ,,"Gefallen haben, gern haben, sich vergnügen",24
-אבה,,"willig sein, wollen (meist negiert gebraucht);
- annehmen",24
-רחם,Pi.,sich erbarmen,24
-ידה,Hi.,"preisen, danken, loben",24
-חֵן,,"Gunst, Gnade",24
-חנן,Q.,"gnädig sein, eine Gnade gewähren",24
-שׁאל,Q.,"fragen, bitten",24
-ישָׁר,,"gerade, richtig, redlich",25
-צדק,,"im Recht sein, gerecht sein",25
-צַדִּיק,,gerecht,25
-צֶדֶק/צְדָקָה,,Gerechtigkeit,25
-שׂכל,Hi.,"Erfolg haben, klug sein",25
-תמם,,"vollständig sein, tadellos sein",25
-תָּמִים,,"vollständig, untadelig",25
-כּוּן,Ni.,"fest stehen, Bestand haben",25
-כּוּן,Hi.,bereitstellen,25
-חֶסֶד,,"Güte, Treue, Gnade, Mitleid",25
-תעב,Pi.,verabscheuen,25
-סוּר,Q.,"(ab)weichen, sich wegwenden",25
-סוּר,Hi.,entfernen,25
-חטא,Q.,"sich verfehlen, sündigen",25
-חֵטְא/חַטָּאת,,"Verfehlung, Sünde¸ Opfer für Sünde",25
-עָוֹן,,"Sünde, Schuld",25
-פשׁע,Q.,"sich auflehnen, sich vergehen",25
-פֶּשַׁע,,"Auflehnung, Sünde",25
-תּוֹעֵבָה,,Gräuel,25
-נאף,Q.,ehebrechen,25
-זנה,Q.,"untreu sein, Hurerei treiben, Unzucht begehen",25
-שָׂנֵא,Q.,hassen,26
-ריב,Q.,Rechtsstreit führen,26
-רִיב,,"Rechtsstreit, Streit",26
-ארר,Q.,verfluchen,26
-ארר,Pi.,verfluchen,26
-חֵמָה,,"Erregung, Zorn, Wut",26
-מאס,Q.,"ablehnen, verwerfen, zurückstoßen",26
-רשׁע,Q.,"ungerecht sein, freveln, böse sein",26
-רָשָׁע,,"frevelhaft, gottlos, böse",26
-רעע,Q.,"böse sein, schlecht sein",26
-רַע,,"schlecht, böse",26
-רָעָה,,"Unheil, Böses, Bosheit",26
-שֶׁקֶר,,"Lüge, Treuebruch, Falschheit",26
+שָׁמַיִם,,Himmel,11
+שֶׁמֶשׁ,,Sonne,11
+אַחֲרֵי/אַחֲרֹן,,"nach, nach hinten",11
+אַחֲריִת,,"das danach Kommende, Hinteres; Ende, Schluss",11
+אֶחָד,,"einer, eins",12
+שְׁתַּים/שְׁנַיִם,,zwei,12
+שׇׁלוֹשׁ/שְׁלֹושָׁה,,drei,12
+עֶשֶׂר/עַשָׂרָה,,zehn,12
+מֵאָה,,hundert,12
+אֶלֶף,,tausend,12
+ספר,Q.,zählen,12
+ספר,Ni.,"zählbar sein
+",12
+ספר,Pi.,erzählen,12
+מִסְפָּר,,Zahl,12
+רַב,,"viel, zahlreich",12
+רֹב,,(große) Menge,12
+רבה,Q.,zahlreich sein;  ,12
+רבה,Hi.,zahlreich machen,12
+יסף,"Q., Hi.",hinzufügen,12
+עָנִי,,"besitzlos, arm; demütig",12
+עֳנִי,,"Elend, Leiden",12
+רַק,,nur,12
+מְעַט,,wenig,12
+כָּבֵד,Q.,schwer sein,13
+כָּבֵד,Pi.,ehren,13
+קלל,Q.,"leicht sein
+ ",13
+קלל,Pi.,verfluchen,13
+גָּדוֹל,,groß,13
+גדל,,"groß werden, groß sein",13
+קטן/קָטוֹן,,klein sein/klein,13
+מכר,,verkaufen,13
+קנה,,"erwerben, kaufen; schaffen",13
+נתן,,geben,13
+ירשׁ,Q.,"in Besitz nehmen; beerben, erben",13
+ירשׁ,Hi.,vertreiben,13
+נַחֲלָה,,"Erbbesitz, Besitz",13
+הלך,Q.,gehen,14
+שׁוּב,Q.,"zurückkehren, umkehren",14
+שׁוּב,Hi.,zurückbringen,14
+סבב,Q.,"umgeben, herumgehen; sich wenden",14
+ירד,Q.,hinabsteigen,14
+עלה,Q.,"hinaufgehen, aufsteigen",14
+עלה,Hi.,"hinaufführen, aufsteigen lassen, opfern",14
+עבר,Q.,"vorübergehen, hinübergehen",14
+יָם,,Meer,14
+תְּהוֹם,,Urflut,14
+פנה,Q.,"sich wenden, entgegentreten",14
+רחק,Q.,"fern sein, sich entfernen",14
+נגשׁ,Hi.,(dar)bringen,14
+נגשׁ,"Q., Ni.","herzutreten, sich nähern",14
+קרב,Q.,"sich nähern
+ ",14
+קרב,Hi.,darbringen,14
+קָרוֹב,,nahe,14
+אֵל,,Gott,15
+אֱלֹהִים,,Gott,15
+אָדוֹן/אֲדֺנָי,,der Herr/mein Herr,15
+קָדוֹשׁ,,heilig,15
+קֹדֶשׁ,,"Heiligkeit, Heiligtum, Heiliges",15
+קדשׁ,,"heilig sein, geweiht sein",15
+קדשׁ,"Pi., Hi.",heiligen,15
+שׁבע,Ni.,schwören,15
+הלל,Pi.,loben,15
+תְּהִלָּה,,"Ruhm, Lob, Lobpreis",15
+כָּבוֹד,,"Herrlichkeit, Ehre",15
+נָבִיא,,Prophet,15
+נְאֻם,,"Ausspruch, Orakel, Spruch",15
+פלל,Hitp.,beten,15
+תְּפִלָּה,,Gebet,15
+צוה,Pi.,"befehlen, anordnen",15
+תּוֹרָה,,"Weisung, Gesetz, Entscheidung",15
+חֹק/חֻקָּה,,"Satzung, Vorschrift",15
+מִצְוָה,,"Befehl, Gebot",15
+כפר,Pi.,"Sühne schaffen, sühnen",15
+ברא,Q.,erschaffen,15
+ברך,Pi.,segnen,15
+בְּרָכָה,,Segen,15
+הֵיכָל,,"Tempel, Palast",16
+מִזְבֵּחַ,,Altar,16
+אֲרוֹן,,"Lade, Bundeslade",16
+עַמּוּד,,"Pfeiler, Säule",16
+זֶבַח,,Opfer,16
+זבח,Q.,opfern,16
+מִנְחָה,,"Geschenk, Gabe, Opfergabe (Korn u. ä.)",16
+עֹלָה,,Brandopfer,16
+כֹּהֵן,,Priester,16
+משׁח,,salben,16
+מָשִׁיחַ,,Gesalbter,16
+חָג/חַג,,Fest,16
+מֶלֶךְ,,König,17
+מלך,,König sein,17
+מַלְכוּת,,"Königtum, Königsherrschaft",17
+מַמְלָכָה,,Königsherrschaft,17
+נָשִׂיא,,Fürst,17
+שַׂר,,"Beamter, Fürst",17
+בחר,Q.,"erwählen, wählen, ernennen",17
+משׁל,Q.,"herrschen, Macht haben",17
+שָׁלוֹם,,"Friede, Wohlergehen, Wohlstand",17
+שׁלם,Q.,"im Frieden sein, unversehrt sein, heil sein",17
+גּוֹי,,"Volk, Nation",17
+עַם,,Volk,17
+עֵדָה,,"Gemeinde, Versammlung",17
+קהל,Ni.,sich versammeln,17
+קהל,Hi.,versammeln,17
+קָהָל,,"Versammlung, (Volks)gemeinde",17
+כִּסֵּא,,Thron,17
+שׁפט,,"richten, entscheiden, urteilen",17
+מִשְׁפָּט,,"Recht, Endurteil, Prozess",17
+בקשׁ,Pi.,suchen,17
+דרשׁ,Q.,"suchen, fragen nach",17
+מצא,Q.,finden,17
+צָבָא,,Heer,18
+גִּבּוֹר,,"Held, Elitesoldat",18
+מִלְחָמָה,,"Kampf, Krieg, Schlacht",18
+בְּרִית,,"Bund, Verpflichtung",18
+כרת,Q.,"Bund schließen, (ab)schneiden",18
+כרת,Hi.,ausrotten,18
+חֶרֶב,,Schwert,18
+ישׁע,Hi.,"helfen, retten, befreien",18
+יְשׁוּעַ,,"Hilfe, Rettung",18
+נצל,Hi.,retten,18
+לחם,Ni.,"kämpfen, bekämpfen",18
+אֹיֵב,,Feind,18
+גרשׁ,Q.,vertreiben,18
+שׁמר,Q.,"behüten, bewahren, halten, beobachten",18
+אוֹת,,"Zeichen, Signal",18
+נוּס,Q.,fliehen,19
+שׁחת,Hi.,"verderben, vernichten, zerstören",19
+רדף,Q.,"verfolgen, nachjagen",19
+מַעֲשֶׂה,,"Werk, Tätigkeit, Tat",20
+עֲבֹדָה,,"Dienst, Arbeit",20
+פעל,Q.,"machen, tun, handeln",20
+עשׂה,Q.,"machen, tun",20
+פקד,Q.,"sich kümmern um; heimsuchen, überwachen",20
+בנה,Q.,bauen,20
+אֶבֶן,,Stein,20
+יצר,Q.,"formen, bilden",20
+ידע,Q.,"erkennen, kennen",21
+סֵפֶר,,Buch,21
+חכם,Q.,weise sein,21
+חָכָם,,weise,21
+חָכְמָה,,Weisheit,21
+למד,Q.,lernen,21
+ענה,Q.,"I. antworten, erhören
+II. niedergedrückt sein, leiden
+III. singen",21
+ענה,Pi.,"bedrücken, demütigen, vergewaltigen",21
+אֱמוּנָה,,"Zuverlässigkeit, Vertrauen",21
+אֱמֶת,,"Treue, Festigkeit",21
+קוה,Pi.,"hoffen, warten",21
+בטח,Q.,"vertrauen, Vertrauen haben",21
+קרא,Q.,rufen; lesen,21
+כתב,Q.,schreiben,21
+מַלְאָךְ,,"Bote, Engel",21
+שׁלח,Q.,"schicken, senden",21
+נגד,Hi.,"kundtun, mitteilen, erklären",21
+זכר,Q.,"gedenken, sich erinnern",21
+שׁכח,Q.,vergessen,21
+יִרְאָה,,Furcht,22
+יָרֵא,Q.,fürchten,22
+נסה,Pi.,"auf die Probe stellen, versuchen",22
+שׂמח,Q.,"sich freuen, froh sein",22
+שִׂמְחָה,,Freude,22
+חָפֵץ,Q.,"Gefallen haben, gern haben, sich vergnügen",22
+רחם,Pi.,sich erbarmen,22
+חֵן,,"Gunst, Gnade",22
+חנן,Q.,"gnädig sein, Gnade gewähren",22
+שׁאל,Q.,"fragen, bitten",22
+קֶרֶב,,"Inneres, Mitte, Eingeweide",22
+יׇשָׁר,,"gerade, richtig, redlich",23
+צדק,Q.,"im Recht sein, gerecht sein",23
+צַדִּיק,,gerecht,23
+צֶדֶק/צְדָקָה,,Gerechtigkeit,23
+חֶסֶד,,"Güte, Treue, Gnade, Mitleid",23
+תמם,Q.,"vollständig sein, tadellos sein",23
+תָּמִים,Q.,"vollständig, untadelig",23
+סוּר,Q.,"(ab)weichen, sich wegwenden",23
+סוּר,Hi., entfernen,23
+חטא,Q.,"sich verfehlen, sündigen",23
+חֵטְא/חַטָּאת,,"Verfehlung, Sünde, Opfer für Sünde",23
+עָוֹן,,"Sünde, Schuld",23
+פשׁע,Q.,"sich auflehnen, sich vergehen",23
+פֶּשַׁע,,"Auflehnung, Sünde",23
+שָׂנֵא,Q.,hassen,24
+חֵמָה,,"Erregung, Zorn, Wut",24
+רשׁע,Q.,"ungerecht sein, freveln, böse sein",24
+רָשָׁע,,"frevelhaft, gottlos, böse",24
+רעע,Q.,"böse sein, schlecht sein",24
+רַע,,"schlecht, böse",24
+רָעָה,,"Unheil, Böses, Bosheit",24
