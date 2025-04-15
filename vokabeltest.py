@@ -13,7 +13,7 @@ def main():
     if args.la:
         df = pd.read_csv("Kreuzer_LA_BA.csv")
     else:
-        df = pd.read_csv("Kreuzer.csv")
+        df = pd.read_csv("Vokabelliste_MagTheol_2025.csv")
 
     set = df[df.lektion.isin(args.lektionen)]
     n = args.size
