@@ -1,7 +1,9 @@
 # hebrew_vocabulary
-A simple python script to create hebrew vocabulary tests for LaTeX from the Kreuzer list 
+Ein einfaches python Script, um Vokabeltests aus der Kreuzerliste zu erstellen. 
 
 usage: 
-`python3 vokabeltest.py number lektionen | pbcopy` 
+`python3 vokabeltest.py anzahlAbgefragterVokabeln lektionen | pbcopy` 
 
 For example, `python3 vokabeltest.py 16 1 5 8 | pbcopy` creates a test of 16 words from sections 1, 5 and 8. 
+
+Für alle Optionen siehe `python3 vokabeltest.py -h`.
