@@ -1,5 +1,5 @@
 # hebrew_vocabulary
-Ein einfaches python Script, um Vokabeltests aus der Kreuzerliste zu erstellen. 
+Ein einfaches python Script, um Vokabeltests aus der Vokabelliste für die Universität Bonn zu erstellen. 
 
 usage: 
 `python3 vokabeltest.py anzahlAbgefragterVokabeln lektionen | pbcopy` 
