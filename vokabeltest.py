@@ -11,7 +11,7 @@ def main():
 
     #wählt richtige Liste
     if args.la:
-        df = pd.read_csv("Kreuzer_LA_BA.csv")
+        df = pd.read_csv("Kreuzer_LABA_2025.csv")
     else:
         df = pd.read_csv("Vokabelliste_MagTheol_2025.csv")
 
