@@ -23,9 +23,9 @@ def main():
     print("\\begin{tasks}(2)")
     for i in range(n):
         if(pd.isna(df_sub.iloc[i]['bemerkungen'])):
-            print("\\task \\makebox[2.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "}}")
+            print("\\task \\makebox[1.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "}}")
         else:
-            print("\\task \\makebox[2.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "} {\\normalsize " + df_sub.iloc[i]['bemerkungen'] + "}}")
+            print("\\task \\makebox[1.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "} {\\normalsize " + df_sub.iloc[i]['bemerkungen'] + "}}")
     print("\\end{tasks}")
 
     if args.solution:
