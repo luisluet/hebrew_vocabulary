@@ -20,28 +20,24 @@ def main():
     df_sub = set.sample(n)
     #print("\\section{Vokabeltest mit " + str(args.size) + " Vokabeln aus Lektion " + str(args.lektionen) + "}")
     print("\\section{Vokabeltest}")
-    print("\\begin{multicols}{2}")
-    print("{\\setstretch{1.7} \\raggedright")
+    print("\\begin{tasks}(2)")
     for i in range(n):
         if(pd.isna(df_sub.iloc[i]['bemerkungen'])):
-            print("\\LargeHebrew{" + df_sub.iloc[i]['hebraeisch'] + "}\\\\")
+            print("\\task \\makebox[2.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "}}")
         else:
-            print(df_sub.iloc[i]['bemerkungen'] + " \\LargeHebrew{" + df_sub.iloc[i]['hebraeisch'] + "}\\\\")
-    print("}")
-    print("\\end{multicols}")
+            print("\\task \\makebox[2.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "} {\\normalsize " + df_sub.iloc[i]['bemerkungen'] + "}}")
+    print("\\end{tasks}")
 
     if args.solution:
         print("\\newpage")
         print("\\subsection{Vokabeltest Lösungen}")
-        print("\\begin{multicols}{2}")
-        print("{\\setstretch{1.7} \\raggedright")
+        print("\\begin{tasks}(2)")
         for i in range(n):
             if (pd.isna(df_sub.iloc[i]['bemerkungen'])):
-                print("\\LargeHebrew{" + df_sub.iloc[i]['hebraeisch'] + "}      " + df_sub.iloc[i]['deutsch'] + "\\\\")
+                print("\\task \\makebox[1.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "}} ~~ {\\normalsize " + df_sub.iloc[i]['deutsch'] + "}")
             else:
-                print(df_sub.iloc[i]['bemerkungen'] + " \\LargeHebrew{" + df_sub.iloc[i]['hebraeisch'] + "}     " + df_sub.iloc[i]['deutsch'] + "\\\\")
-        print("}")
-        print("\\end{multicols}")
+                print("\\task \\makebox[1.5cm][l]{\\texthebrew{" + df_sub.iloc[i]['hebraeisch'] + "} {\\normalsize " + df_sub.iloc[i]['bemerkungen'] + "}} ~~ {\\normalsize " + df_sub.iloc[i]['deutsch'] + "}")
+        print("\\end{tasks}")
 
 if __name__ == "__main__":
     main()
